@@ -1,5 +1,7 @@
 # hide venv folder
 python_venv/
+# hide dataset folder
+datasets/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
